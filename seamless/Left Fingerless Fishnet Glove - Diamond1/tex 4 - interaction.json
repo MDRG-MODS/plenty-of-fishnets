@@ -1,0 +1,110 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 4 - interaction_texture0_layer0.png",
+            "Layer": 10,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmLLowerArmUp",
+                    "RectInt": {
+                        "x": 838,
+                        "y": 5,
+                        "width": 192,
+                        "height": 540
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLLowerArmDown",
+                    "RectInt": {
+                        "x": 583,
+                        "y": 5,
+                        "width": 244,
+                        "height": 510
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandUp3",
+                    "RectInt": {
+                        "x": 323,
+                        "y": 5,
+                        "width": 250,
+                        "height": 457
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandUp2",
+                    "RectInt": {
+                        "x": 229,
+                        "y": 472,
+                        "width": 344,
+                        "height": 447
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandUp1",
+                    "RectInt": {
+                        "x": 62,
+                        "y": 5,
+                        "width": 252,
+                        "height": 429
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandDown1",
+                    "RectInt": {
+                        "x": 645,
+                        "y": 528,
+                        "width": 178,
+                        "height": 418
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandDown2",
+                    "RectInt": {
+                        "x": 858,
+                        "y": 552,
+                        "width": 176,
+                        "height": 370
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 7,
+                        "y": 473,
+                        "width": 210,
+                        "height": 306
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

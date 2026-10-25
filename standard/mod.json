@@ -1,0 +1,16 @@
+{
+    "name": "PlentyOfFishnetsV2",
+    "description": "Various fishnet clothes",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.97.11",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639023968492080170,
+        "guid": {
+            "serializedGuid": "28a48ecc-cd21-4d33-a433-d8e675070d3a"
+        }
+    }
+}
