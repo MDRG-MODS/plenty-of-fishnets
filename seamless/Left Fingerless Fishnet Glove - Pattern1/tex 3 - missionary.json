@@ -1,0 +1,50 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 3 - missionary_texture0_layer0.png",
+            "Layer": 10,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmLHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 145,
+                        "y": 5,
+                        "width": 146,
+                        "height": 169
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand2",
+                    "RectInt": {
+                        "x": 2,
+                        "y": 5,
+                        "width": 130,
+                        "height": 177
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand1",
+                    "RectInt": {
+                        "x": 342,
+                        "y": 163,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 7 - cowgirl_texture0_layer0.png",
+            "Layer": 10,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmLForearm",
+                    "RectInt": {
+                        "x": 174,
+                        "y": 5,
+                        "width": 174,
+                        "height": 392
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 5,
+                        "width": 166,
+                        "height": 265
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
